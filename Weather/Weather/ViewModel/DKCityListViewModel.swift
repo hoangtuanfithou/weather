@@ -6,7 +6,6 @@
 //  Copyright © 2017 NHT. All rights reserved.
 //
 
-import SVProgressHUD
 import ObjectMapper
 
 protocol DKCityListViewModelProtocol {
